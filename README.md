@@ -17,6 +17,7 @@ Material de apoio ao minicurso.
 * [Modernizr](https://modernizr.com/docs/#what-is-modernizr)
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [Animações](https://github.com/jeffersonrpn/WatchUsBuild-QuizAppWithCSSAnimations)
+* [Animate.css](https://daneden.github.io/animate.css/)
 * [Placeholder](https://via.placeholder.com/350x150)
 * [Google Fonts](https://fonts.google.com/)
 
