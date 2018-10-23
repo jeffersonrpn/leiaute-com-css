@@ -1,0 +1,11 @@
+h1 {
+    color: blueviolet;
+}
+
+h1.title {
+    color: aquamarine;
+}
+
+.title {
+    color: palevioletred;
+}
