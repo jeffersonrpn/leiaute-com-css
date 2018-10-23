@@ -2,6 +2,8 @@
 
 Material de apoio ao minicurso.
 
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTPx5Unu_ZzqR0xTuY45JM389nMh3kJGdTk98zBeVxTgJkLy0mrddjrSLE99P6eBdv4Pvr3Si6_GOjJ/pub?start=false&loop=false&delayms=60000)
+
 ## Links
 
 * [Box model](https://jeffersonrpn.github.io/leiaute/box-model.html)
