@@ -18,3 +18,7 @@ Material de apoio ao minicurso.
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [Animações](https://github.com/jeffersonrpn/WatchUsBuild-QuizAppWithCSSAnimations)
 * [Placeholder](https://via.placeholder.com/350x150)
+* [Google Fonts](https://fonts.google.com/)
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Design de app - Adobe XD](http://bit.ly/minicurso-css)
